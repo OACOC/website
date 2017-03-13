@@ -1,0 +1,469 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: gray;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.livebtn > a {
+  background-color: #009cce;
+  color: #FFF;
+}
+
+.livebtn > a:hover {
+  background-color: #5cb85c;
+  color: #FFF;
+}
+
+.sermons > #hover-facebook:hover {
+  color: #3b5998;
+}
+
+.sermons > #hover-twitter:hover {
+  color: #00aced;
+}
+
+#instagramGradient {
+  display: none;
+}
+
+#hover-instagram:hover #instagramGradient {
+  display: inline-block;
+  vertical-align: top;
+  padding: 3px 5px;
+}
+
+#hover-instagram:hover #instagramGray {
+  display: none;
+}
+
+.sermons > #hover-snapchat:hover {
+  color: #FFFC00;
+}
+
+.wrapper-242 {
+  height: 79px;
+}
+
+.parent {
+  position: relative;
+}
+
+.center-vertical {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.center-vert-horz {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.cen-horz {
+  text-align: center;
+}
+
+.remove-pad {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.remove-pad-rt {
+  padding-right: 0;
+}
+
+.remove-pad-lft {
+  padding-left: 0;
+}
+
+.remove-marg {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.mod-pad {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.mod-242 {
+  margin-bottom: 20px;
+}
+
+.info-mods {
+  padding: 2.0em 0em 2.0em 0em;
+}
+
+.oacocfamily {
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-left: -25px;
+}
+
+.oaCentral {
+    content: '';
+    width: 100%;
+    height: 600px;
+    z-index: -1000;
+    background: linear-gradient(160deg, #FF7B06 0%, #fff 100%);
+    transform-origin: left bottom;
+    /*position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transform: skew(0deg, -15deg);
+    -moz-transform: skew(0deg, -15deg);
+    -ms-transform: skew(0deg, -15deg);
+    -o-transform: skew(0deg, -15deg);
+    transform: skew(0deg, -15deg);*/
+}
+
+.oaCentral-cont {
+  margin-top: 2.0rem;
+}
+
+.hero_homepage::before {
+    content: '';
+    width: 100%;
+    height: 600px;
+    z-index: -1000;
+    background: linear-gradient(160deg, #FF7B06 0%, #B4FF04 100%);
+    transform-origin: left bottom;
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transform: skew(0deg, -15deg);
+    -moz-transform: skew(0deg, -15deg);
+    -ms-transform: skew(0deg, -15deg);
+    -o-transform: skew(0deg, -15deg);
+    transform: skew(0deg, -15deg);
+}
+
+.group242_homepage::before {
+    content: '';
+    width: 100%;
+    height: 600px;
+    z-index: -1000;
+    background: linear-gradient(160deg, #621d20 0%, #FF7B06 100%);
+    transform-origin: left bottom;
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transform: skew(0deg, -15deg);
+    -moz-transform: skew(0deg, -15deg);
+    -ms-transform: skew(0deg, -15deg);
+    -o-transform: skew(0deg, -15deg);
+    transform: skew(0deg, -15deg);
+}
+
+.vid_contain {
+  height: 30rem;
+  overflow: hidden;
+  border-radius: 6px;
+  box-shadow: 12px 15px 20px 0px rgba(0,0,0,0.25);
+}
+
+video {
+  width: auto;
+  height: 100%;
+}
+
+.modal-body>video {
+  width: 100%;
+  height: 100%;
+}
+
+.vid_overlay {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  /*z-index: 7000;*/
+}
+
+.video_teaser {
+  color: white;
+  float: left;
+  display: block;
+  margin-right: 1.69492%;
+  width: 100%;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  margin: 0 !important;
+  text-align: center;
+}
+
+.home_card {
+  height: 9rem;
+}
+
+.hero-mod {
+  border-radius: 6px;
+  box-shadow: 12px 15px 20px 0px rgba(0,0,0,0.15);
+  margin: 0 20px;
+  margin-bottom: 1.5rem;
+  background: #FFF;
+}
+
+.group_top {
+  position: absolute;
+  width: 60%;
+  top: 0px;
+  left: 0px;
+  box-shadow: 12px 15px 20px 0px rgba(0,0,0,0.15);
+}
+
+.group_bottom {
+  position: relative;
+  width: 70%;
+  left: 75px;
+  top: 70px;
+  box-shadow: 12px 15px 20px 0px rgba(0,0,0,0.15);
+}
+
+.card_img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 6px 0 0 6px;
+}
+
+.card_content {
+  height: 9rem;
+  width: 100%;
+  padding: 20px 20px;
+}
+
+.card_content h5 {
+  margin-top: 20px;
+  font-size: 1.125rem;
+  padding-right: 0.75rem;
+}
+
+.episode_date {
+  margin-bottom: 20px;
+}
+
+.titlegraphic {
+  border: 1px solid black;
+}
+
+.sermons {
+  clear: both;
+  border-bottom: 1px solid #bcbec0;
+  padding: .6em 1em;
+}
+
+.sermons:last-child {
+  border-bottom: none;
+}
+
+.date {
+  float: left;
+  text-align: center;
+}
+
+.month {
+  text-transform: uppercase;
+  display: block;
+  color: #9199a0;
+  font-weight: bold;
+  font-size: .8em;
+}
+
+.day {
+  display: block:
+}
+
+.sermonarchives {
+  display: block;
+  margin-left: 5.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 1.5em;
+  border-left: 1px solid #bcbec0;
+}
+
+.viewarchives {
+  text-align: center;
+}
+
+.viewarchives > a {
+  color: #009cce;
+  text-align: center;
+  font-size: 1.25em;
+}
+
+.viewarchives > a:hover {
+  color: #000;
+}
+
+/* Footer */
+
+footer {
+  padding: 3.5em 0;
+  /*padding: 9.375vw 0 0;*/
+  background-color: #343538;
+  color: #818386;
+}
+
+.fa {
+  padding: 0 5px;
+  font-size: 2.25em;
+}
+
+.footer-address {
+  padding-left: 20px;
+}
+
+.footeritems {
+  width: 100%;
+  border-bottom: 1px solid #bcbec0;
+  padding: .6em 1em;
+}
+
+/* Countdown Clock */
+
+#clockdiv {
+  font-size: 1.75em;
+  /*margin-bottom: 20px;*/
+  color: #336699;
+}
+
+#clockdiv > div {
+  padding: 10px;
+  display: inline-block;
+}
+
+#clockdiv div > span {
+  display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: .5em;
+}
+
+/* Navbar */
+.navbar-brand {
+  height: 100px;
+  padding: 0 0;
+}
+
+.navbar-nav>li>a {
+  line-height: 70px;
+}
+
+.navbar-right {
+  font-size: 18px;
+}
+
+.navbar-default {
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #999999;
+}
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #999999;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #999999;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #999999;
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+  color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+  color: #999999;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ffffff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #999999;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #999999;
+    background-color: rgba(0, 0, 0, 0);
+  }
+}
+
+.modal {
+  background-color: rgba(0,0,0,0.75);
+}
+
+@media screen and (min-width: 30rem) {
+  .video_teaser .play_icon {
+    width: 60px;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+.video_teaser h1 {
+    margin-bottom: 2.25rem;
+  }
+}
