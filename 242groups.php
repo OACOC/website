@@ -27,65 +27,21 @@
 
       <div class="container">
         <div class="row info-mods">
-          <div class="col-md-4 cen-horz">
-            <img style="margin-top:25px" class="img-responsive center-block" src="Images/242logo.png">
-          </div>
-          <div class="col-md-4 cen-horz">
-            <h1 style="color:black">Sharing Life Together</h1>
-          </div>
-          <div class="col-md-4">
-            <div>
-              <img class="img-responsive" src="Images/242groups.png" alt="242 Groups">
-            </div>
-          </div>
+          <?php include('242header.php'); ?>
         </div>
       </div>
 
       <section>
         <div class="container">
           <div class="row">
-            <div class="col-md-12">
-              <h1>BOLD</h1>
-            </div>
-            <div class="col-md-12">
-              <h3>SERIES OVERVIEW</h3>
-            </div>
-            <div class="col-md-12">
-              <p>We live in a time when boldness, sometimes even the outlandish type is a plus. God wants His children to live humbly but boldly! We are going to look at some different stories from the Book of Acts Luke shares with us the earliest days of Christianity we learn that the early believers where BOLD. In fact one of the dominant themes from the Book of Acts is boldness.</p>
-            </div>
-            <hr>
-            <div class="col-md-6">
-              <h3>Topics</h3>
-              <div class="sermons wrapper-242">
-                <p>Week 1 - Amazing Boldness</p>
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310830588&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-              </div>
-              <div class="sermons wrapper-242">
-                <p>Week 2 - Bold Prayers</p>
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-              </div>
-              <div class="sermons wrapper-242">
-                <p>Week 3 - Bold Speaking</p>
-              </div>
-              <div class="sermons wrapper-242">
-                <p>Week 4 - Bold Obedience</p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <h3>Discussion Guides</h3>
-              <div class="sermons wrapper-242">
-                <p>MARCH 05 - <a style="color:#43DDF8" href="/docs/lesson_guide_030517.pdf" target="_blank">Amazing Boldness Discussion Guide</a></p>
-                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307367825&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-              </div>
-              <div class="sermons wrapper-242">
-                <p>MARCH 12 - <a style="color:#43DDF8" href="/docs/lesson_guide_031217.pdf" target="_blank">Bold Prayers Discussion Guide</a></p>
-              </div>
-              <div class="sermons wrapper-242">
-                <p>MARCH 19 - <a style="color:#43DDF8" href="/docs/lesson_guide_031917.pdf" target="_blank">Bold Speaking Discussion Guide</a></p>
-              </div>
-              <div class="sermons wrapper-242">
-                <p>MARCH 26 - <!--<a style="color:#43DDF8" href="/docs/lesson_guide_032617.pdf" target="_blank">Bold Obedience Discussion Guide</a>-->Bold Obedience Discussion Guide</p>
-              </div>
+
+<!-- Fill with list of groups --> <h1>Group list coming soon.</h1>
+
+            <div class="row">
+              <h2 class="cen-horz livebtn">
+                <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242lessonss.php" role="button">Study Resources</a>
+                <!--<a style="display:inline" class="btn btn-default btn-lg btn-block" href="smallgroups.php" role="button">Start a Group</a>-->
+              </h2>
             </div>
           </div>
         </div>
