@@ -138,7 +138,7 @@
           <div class="col-md-3">
             <h4>Sunday, March 19, 2017</h4>
             <h3>Bold Speaking</h3>
-            <P>In part three of our series, BOLD, we will look at "BOLD Speaking".  We meet for Bible Classes at 9 am and Worship Assembly at 10 am. Bring a friend and Bible!</p>
+            <P>At Orange Ave. this week we will be in our third week of our sermon series “BOLD”. This week we will continue looking at the boldness of those first Christians in Acts 4 as they were Boldly Speaking about the resurrection of Jesus. Join us this Sunday for Bible Classes at 9 am and Worship Assembly at 10 am. We got room for you, and you’ll be glad you came.</p>
               <div class="viewarchives">
                 <a href="#">View Sermon Archives</a>
               </div>
