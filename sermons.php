@@ -1,4 +1,6 @@
 <body>
+  <?php include_once("analyticstracking.php") ?>
+  
   <section class="hero_homepage">
 
     <?php include('header.php'); ?>
@@ -25,7 +27,7 @@
         </div>
         <div class="col-md-3">
         </div>
-      </div>      
+      </div>
     </div>
 
   </section>
