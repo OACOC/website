@@ -136,9 +136,9 @@
             </div>
           </div>
           <div class="col-md-3">
-            <h4>Sunday, March 19, 2017</h4>
-            <h3>Bold Speaking</h3>
-            <P>At Orange Ave. this week we will be in our third week of our sermon series “BOLD”. This week we will continue looking at the boldness of those first Christians in Acts 4 as they were Boldly Speaking about the resurrection of Jesus.</p>
+            <h4>Sunday, March 26, 2017</h4>
+            <h3>Bold Obedience</h3>
+            <P>At Orange Ave. this week we will be in our fourth and final week of our sermon series “BOLD”.</p>
               <div class="viewarchives">
                 <a href="#">View Sermon Archives</a>
               </div>
@@ -166,11 +166,11 @@
             </div>
             <!--<div class="sermons">
               <div class="date">
-                <span class="month">Feb</span>
+                <span class="month">Mar</span>
                 <span class="day">19</span>
               </div>
               <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308664131&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
               </div>
             </div>
             <div class="sermons">
@@ -206,8 +206,8 @@
               <span class="day">19</span>
             </div>
             <div class="sermonarchives">
-              <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305095959&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-              <h4>Bold Speaking</h4>
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <!--<h4>Bold Speaking</h4>-->
             </div>
           </div>
           <div class="sermons">
