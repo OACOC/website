@@ -21,6 +21,8 @@
   </head>
 
   <body>
+    <?php include_once("analyticstracking.php") ?>
+    
     <section class="group242_homepage">
 
       <?php include('header.php'); ?>

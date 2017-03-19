@@ -24,6 +24,8 @@
   </head>
 
   <body>
+    <?php include_once("analyticstracking.php") ?>
+    
     <section class="hero_homepage">
 
       <?php include('header.php'); ?>
@@ -247,7 +249,7 @@
 
       <div class="row">
         <h2 class="cen-horz livebtn">
-          <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242lessonss.php" role="button">Study Resources</a>
+          <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242lessons.php" role="button">Study Resources</a>
           <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242groups.php" role="button">Find a Group</a>
           <!--<a style="display:inline" class="btn btn-default btn-lg btn-block" href="smallgroups.php" role="button">Start a Group</a>-->
         </h2>
