@@ -31,6 +31,10 @@ a, a:hover {
   color: #00aced;
 }
 
+.sermons > #hover-google:hover {
+  color: #ea4335;
+}
+
 #instagramGradient {
   display: none;
 }

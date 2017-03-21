@@ -21,6 +21,9 @@
           <a id="hover-twitter" href="http://www.twitter.com/OACOC" target="_blank">
             <i class="fa fa-twitter" aria-hidden="true"></i>
           </a>
+          <a id="hover-google" href="https://plus.google.com/+OrangeAvenueChurchofChristEustis?hl=en" target="_blank">
+            <i class="fa fa-google" aria-hidden="true"></i>
+          </a>
           <a id="hover-instagram" href="http://www.instagram.com/oacoc" target="_blank">
             <i id="instagramGray" class="fa fa-instagram" aria-hidden="true"></i>
             <img id="instagramGradient" src="css/instagram32.png" alt="Instagram">

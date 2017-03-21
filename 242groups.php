@@ -22,7 +22,7 @@
 
   <body>
     <?php include_once("analyticstracking.php") ?>
-    
+
     <section class="group242_homepage">
 
       <?php include('header.php'); ?>
@@ -36,14 +36,119 @@
       <section>
         <div class="container">
           <div class="row">
-
-<!-- Fill with list of groups --> <h1>Group list coming soon.</h1>
-
-            <div class="row">
-              <h2 class="cen-horz livebtn">
-                <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242lessonss.php" role="button">Study Resources</a>
-                <!--<a style="display:inline" class="btn btn-default btn-lg btn-block" href="smallgroups.php" role="button">Start a Group</a>-->
-              </h2>
+            <div class="col-md-12">
+              <div class="table-responsive">
+                <table class="table table-hover">
+                  <thead>
+                    <tr>
+                      <th>Host(s)</th>
+                      <th>Location</th>
+                      <th>Children</th>
+                      <th>Teens</th>
+                      <th>Time</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>Drew Shepherd/Amy O'Neal</td>
+                      <td>Sorrento</td>
+                      <td>&#10004;</td>
+                      <td>&#10004;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Charlie & Jen Marcussen</td>
+                      <td>Eustis</td>
+                      <td>&#10004;</td>
+                      <td>&#10004;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Chris & Tonya Hagan</td>
+                      <td>Mount Dora</td>
+                      <td>&#10004;</td>
+                      <td>&#10004;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Adams/Bay Famlies</td>
+                      <td>Leesburg</td>
+                      <td>&#10008;</td>
+                      <td>&#10008;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Tim & Sabrina Deem</td>
+                      <td>Tavares</td>
+                      <td>&#10008;</td>
+                      <td>&#10008;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Jerry & Kristi Holder</td>
+                      <td>Apopka</td>
+                      <td>&#10008;</td>
+                      <td>&#10008;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Baker/Ross Families</td>
+                      <td>Mount Dora</td>
+                      <td>&#10004;</td>
+                      <td>&#10004;</td>
+                      <td>Sun 2PM</td>
+                    </tr>
+                    <tr>
+                      <td>Katie McKay (ASL)</td>
+                      <td>Eustis</td>
+                      <td>&#10004;</td>
+                      <td>&#10004;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Mike & Karen Cockrell</td>
+                      <td>Eustis</td>
+                      <td>&#10004;</td>
+                      <td>&#10004;</td>
+                      <td>Sun 4PM</td>
+                    </tr>
+                    <tr>
+                      <td>Ron & Elizabeth Brackett</td>
+                      <td>Eustis</td>
+                      <td>&#10008;</td>
+                      <td>&#10008;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Mark & Michelle Baker</td>
+                      <td>Zellwood</td>
+                      <td>&#10004;</td>
+                      <td>&#10004;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Ronnie & Laura Sexton</td>
+                      <td>Eustis</td>
+                      <td>&#10008;</td>
+                      <td>&#10004;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                    <tr>
+                      <td>Troy & Rebecca Allen</td>
+                      <td>Mount Dora</td>
+                      <td>&#10008;</td>
+                      <td>&#10004;</td>
+                      <td>Contact Leader</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="row">
+                <h2 class="cen-horz livebtn">
+                  <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242lessonss.php" role="button">Study Resources</a>
+                  <!--<a style="display:inline" class="btn btn-default btn-lg btn-block" href="smallgroups.php" role="button">Start a Group</a>-->
+                </h2>
+              </div>
             </div>
           </div>
         </div>
