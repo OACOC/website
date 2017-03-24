@@ -25,60 +25,68 @@
 
   <body>
     <?php include_once("analyticstracking.php") ?>
-    
+
     <section class="hero_homepage">
 
       <?php include('header.php'); ?>
 
       <div class="container">
         <div class="row">
-          <div style="padding: 0 0;margin-bottom:2.0rem;" class="col-md-8 vid_contain">
-            <section class="vid_teaser">
-              <div class="vid_static">
-                <div class="vid_contain vid_big">
-                  <video autoplay="autoplay" muted="muted" loop="loop"> <!-- autoplay="autoplay" poster="images/OACOCBuildingFront.jpg"-->
-                    <source src="videos/oacoc_teaser2.mp4" type="video/mp4">
-                    <source src="videos/oacoc_teaser2.webm" type="video/webm">
-                    <source src="videos/oacoc_teaser2.ogv" type="video/ogg">
-                    Your browser does not support the video tag.
-                  </video>
+          <div class="offair">
+            <div style="padding: 0 0;margin-bottom:2.0rem;" class="col-md-8 vid_contain">
+              <section class="vid_teaser">
+                <div class="vid_static">
+                  <div class="vid_contain vid_big">
+                    <video autoplay="autoplay" muted="muted" loop="loop"> <!-- autoplay="autoplay" poster="images/OACOCBuildingFront.jpg"-->
+                      <source src="videos/oacoc_teaser2.mp4" type="video/mp4">
+                      <source src="videos/oacoc_teaser2.webm" type="video/webm">
+                      <source src="videos/oacoc_teaser2.ogv" type="video/ogg">
+                      Your browser does not support the video tag.
+                    </video>
+                  </div>
+                    <a class="vid_overlay" href="#" data-toggle="modal" data-target="#myModal">
+                      <span class="video_teaser">
+                        <h4>ALL ARE</h4>
+                        <h1>WELCOME</h1>
+                        <h4>WE WORSHIP SUNDAYS AT 10 AM</H4>
+                        <img src="Images/icon-video-play.svg" class="play_icon" alt="Play video">
+                        <h3 class="oa_font">Orange Avenue Church of Christ</h3>
+                      </span>
+                    </a>
                 </div>
-                  <a class="vid_overlay" href="#" data-toggle="modal" data-target="#myModal">
-                    <span class="video_teaser">
-                      <h4>ALL ARE</h4>
-                      <h1>WELCOME</h1>
-                      <h4>WE WORSHIP SUNDAYS AT 10 AM</H4>
-                      <img src="Images/icon-video-play.svg" class="play_icon" alt="Play video">
-                      <h3 class="oa_font">Orange Avenue Church of Christ</h3>
-                    </span>
-                  </a>
+              </section>
+            </div>
+            <div class="col-md-4">
+              <div class="hero-mod">
+                <a href="#">
+                <img class="card_img" src="Images/gospels.svg" width=128 alt"Who is Jesus">
+                <div class="card_content">
+                  <h5>Who is Jesus?</h5>
+                </div>
+              </a>
               </div>
-            </section>
+              <div class="hero-mod">
+                <a href="#">
+                <img class="card_img" src="Images/believe.svg" width=128 alt"What we believe">
+                <div class="card_content">
+                  <h5>What We Believe</h5>
+                </div>
+              </a>
+              </div>
+              <div class="hero-mod">
+                <a href="#">
+                <img class="card_img" src="Images/newhere.svg" width=128 alt"New here?">
+                <div class="card_content">
+                  <h5>New Here?</h5>
+                </div>
+              </a>
+              </div>
+            </div>
           </div>
-          <div class="col-md-4">
-            <div class="hero-mod">
-              <a href="#">
-              <img class="card_img" src="Images/gospels.svg" width=128 alt"Who is Jesus">
-              <div class="card_content">
-                <h5>Who is Jesus?</h5>
-              </div>
-            </a>
-            </div>
-            <div class="hero-mod">
-              <a href="#">
-              <img class="card_img" src="Images/believe.svg" width=128 alt"What we believe">
-              <div class="card_content">
-                <h5>What We Believe</h5>
-              </div>
-            </a>
-            </div>
-            <div class="hero-mod">
-              <a href="#">
-              <img class="card_img" src="Images/newhere.svg" width=128 alt"New here?">
-              <div class="card_content">
-                <h5>New Here?</h5>
-              </div>
-            </a>
+
+          <div class="liveaudio">
+            <div class="col-md-12">
+              <iframe src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
             </div>
           </div>
         </div>
@@ -140,9 +148,9 @@
           <div class="col-md-3">
             <h4>Sunday, March 26, 2017</h4>
             <h3>Bold Obedience</h3>
-            <P>At Orange Ave. this week we will be in our fourth and final week of our sermon series “BOLD”.</p>
+            <P>We have looked at the boldness of the earliest Christians when they would speak about what they believed deeply about Jesus; and this isn't an option, it's not an if, it's not a maybe, it's not a when; it is a must!</p>
               <div class="viewarchives">
-                <a href="#">View Sermon Archives</a>
+                <a href="sermons.php">View Sermon Archives</a>
               </div>
           </div>
           <div class="col-md-6">
@@ -166,62 +174,26 @@
                 <!--<h4>Bold Prayers</h4>-->
               </div>
             </div>
-            <!--<div class="sermons">
+            <div class="sermons">
               <div class="date">
                 <span class="month">Mar</span>
                 <span class="day">19</span>
               </div>
               <div class="sermonarchives">
                 <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                <!--<h4>Bold Speaking</h4>-->
               </div>
             </div>
             <div class="sermons">
               <div class="date">
-                <span class="month">Feb</span>
-                <span class="day">12</span>
+                <span class="month">Mar</span>
+                <span class="day">26</span>
               </div>
               <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307367825&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305095959&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+                <h4>Bold Obedience</h4>
               </div>
             </div>
-            <div class="sermons">
-              <div class="date">
-                <span class="month">Feb</span>
-                <span class="day">05</span>
-              </div>
-              <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/306241761&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-              </div>
-            </div>
-            <div class="sermons">
-              <div class="date">
-                <span class="month">jan</span>
-                <span class="day">29</span>
-              </div>
-              <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305095959&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-            </div>-->
-
-          <div class="sermons">
-            <div class="date">
-              <span class="month">Mar</span>
-              <span class="day">19</span>
-            </div>
-            <div class="sermonarchives">
-              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-              <!--<h4>Bold Speaking</h4>-->
-            </div>
-          </div>
-          <div class="sermons">
-            <div class="date">
-              <span class="month">Mar</span>
-              <span class="day">26</span>
-            </div>
-            <div class="sermonarchives">
-              <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305095959&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-              <h4>Bold Obedience</h4>
-            </div>
-          </div>
         </div>
       </div>
     </div>
