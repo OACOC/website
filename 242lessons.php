@@ -22,7 +22,7 @@
 
   <body>
     <?php include_once("analyticstracking.php") ?>
-    
+
     <section class="group242_homepage">
 
       <?php include('header.php'); ?>
@@ -77,7 +77,7 @@
                 <p>MARCH 19 - <a style="color:#43DDF8" href="/docs/lesson_guide_031917.pdf" target="_blank">Bold Speaking Discussion Guide</a></p>
               </div>
               <div class="sermons wrapper-242">
-                <p>MARCH 26 - <!--<a style="color:#43DDF8" href="/docs/lesson_guide_032617.pdf" target="_blank">Bold Obedience Discussion Guide</a>-->Bold Obedience Discussion Guide</p>
+                <p>MARCH 26 - 4th Sunday, No 242 Groups</p>
               </div>
             </div>
             <div class="row">
