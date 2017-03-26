@@ -114,15 +114,18 @@
 
       <div class="container">
         <div class="row info-mods">
-          <div class="col-md-12">
-            <h2 style="text-align:left">Current Sermon Series</h2>
-            <h2>BOLD</h2>
+          <div class="col-md-6">
+            <h2 style="text-align:left">Upcoming Sermon Series:</h2>
+            <!--<h2>Two Gather</h2>-->
+          </div>
+          <div class="col-md-6">
+            <h2 style="text-align:center">Sermon Series: BOLD</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-3">
             <!--<h3>January 1 thru January 22</h3>-->
-            <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Bold.jpg" alt="Sermon Title Graphic">
+            <img class="img-responsive titlegraphic" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
               <div id="clockdiv" style="text-align:center">
                 <div>
                   <span class="days"></span>
@@ -146,9 +149,9 @@
             </div>
           </div>
           <div class="col-md-3">
-            <h4>Sunday, March 26, 2017</h4>
-            <h3>Bold Obedience</h3>
-            <P>We have looked at the boldness of the earliest Christians when they would speak about what they believed deeply about Jesus; and this isn't an option, it's not an if, it's not a maybe, it's not a when; it is a must!</p>
+            <h4>Sunday, April 2, 2017</h4>
+            <h3>Two Gather</h3>
+            <P>Please join us as we begin a new series, "Two Gather". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
               <div class="viewarchives">
                 <a href="sermons.php">View Sermon Archives</a>
               </div>
@@ -190,8 +193,8 @@
                 <span class="day">26</span>
               </div>
               <div class="sermonarchives">
-                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305095959&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-                <h4>Bold Obedience</h4>
+                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                <!--<h4>Bold Obedience</h4>-->
               </div>
             </div>
         </div>

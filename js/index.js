@@ -37,7 +37,7 @@ function initializeClock(id, endtime) {
   var timeinterval = setInterval(updateClock, 1000);
 }
 
-var deadline = '03/26/2017 10:35';
+var deadline = '04/02/2017 10:35';
 initializeClock('clockdiv', deadline);
 
 
@@ -46,7 +46,7 @@ var d = new Date();
 var startTime = new Date();
 startTime.setHours(8,45,0);
 var endTime = new Date();
-endTime.setHours(11,56,0);
+endTime.setHours(11,30,0);
 
 if((d.getDay() == 0) && (d >= startTime && d <= endTime )){
     $(".liveaudio").show();

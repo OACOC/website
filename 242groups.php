@@ -54,7 +54,7 @@
                       <td>Sorrento</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
-                      <td>Contact Leader</td>
+                      <td>Sunday 2PM</td>
                     </tr>
                     <tr>
                       <td>Charlie & Jen Marcussen</td>
@@ -98,13 +98,13 @@
                       <td>&#10004;</td>
                       <td>Sun 2PM</td>
                     </tr>
-                    <tr>
+                    <!--<tr>
                       <td>Katie McKay (ASL)</td>
                       <td>Eustis</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
                       <td>Contact Leader</td>
-                    </tr>
+                    </tr>-->
                     <tr>
                       <td>Mike & Karen Cockrell</td>
                       <td>Eustis</td>
