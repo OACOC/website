@@ -42,6 +42,7 @@
                   <thead>
                     <tr>
                       <th>Host(s)</th>
+                      <th>Contact</th>
                       <th>Location</th>
                       <th>Children</th>
                       <th>Teens</th>
@@ -51,6 +52,15 @@
                   <tbody>
                     <tr>
                       <td>Drew Shepherd/Amy O'Neal</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="#" role="button">Contact</a>
+                          <!--<script language="JavaScript">
+                            var username = "drew.shepherd";
+                            var hostname = "myoacoc.org";
+                            var linktext = username + "@" + hostname ;
+                            document.write("<a class="btn btn-default btn-sm" href='" + "mail" + "to:" + username + "@" + hostname + "' role="button">"Contact"</a>");
+                          </script>-->
+                      </td>
                       <td>Sorrento</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
@@ -58,6 +68,9 @@
                     </tr>
                     <tr>
                       <td>Charlie & Jen Marcussen</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Eustis</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
@@ -65,6 +78,9 @@
                     </tr>
                     <tr>
                       <td>Chris & Tonya Hagan</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Mount Dora</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
@@ -72,6 +88,9 @@
                     </tr>
                     <tr>
                       <td>Adams/Bay Famlies</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Leesburg</td>
                       <td>&#10008;</td>
                       <td>&#10008;</td>
@@ -79,6 +98,9 @@
                     </tr>
                     <tr>
                       <td>Tim & Sabrina Deem</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Tavares</td>
                       <td>&#10008;</td>
                       <td>&#10008;</td>
@@ -86,6 +108,9 @@
                     </tr>
                     <tr>
                       <td>Jerry & Kristi Holder</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Apopka</td>
                       <td>&#10008;</td>
                       <td>&#10008;</td>
@@ -93,6 +118,9 @@
                     </tr>
                     <tr>
                       <td>Baker/Ross Families</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Mount Dora</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
@@ -100,6 +128,9 @@
                     </tr>
                     <!--<tr>
                       <td>Katie McKay (ASL)</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="mailto:webmaster@myoacoc.org" role="button">Contact</a>
+                      </td>
                       <td>Eustis</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
@@ -107,6 +138,9 @@
                     </tr>-->
                     <tr>
                       <td>Mike & Karen Cockrell</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Eustis</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
@@ -114,13 +148,19 @@
                     </tr>
                     <tr>
                       <td>Ron & Elizabeth Brackett</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Eustis</td>
                       <td>&#10008;</td>
                       <td>&#10008;</td>
-                      <td>Contact Leader</td>
+                      <td>Sunday 1:30PM</td>
                     </tr>
                     <tr>
                       <td>Mark & Michelle Baker</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Zellwood</td>
                       <td>&#10004;</td>
                       <td>&#10004;</td>
@@ -128,6 +168,9 @@
                     </tr>
                     <tr>
                       <td>Ronnie & Laura Sexton</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Eustis</td>
                       <td>&#10008;</td>
                       <td>&#10004;</td>
@@ -135,6 +178,9 @@
                     </tr>
                     <tr>
                       <td>Troy & Rebecca Allen</td>
+                      <td>
+                          <a class="btn btn-default btn-sm" href="242groups.php" role="button">Contact</a>
+                      </td>
                       <td>Mount Dora</td>
                       <td>&#10008;</td>
                       <td>&#10004;</td>
