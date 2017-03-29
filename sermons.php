@@ -31,19 +31,67 @@
 
     <?php include('header.php'); ?>
 
-    <!--<div class="container-fluid">
-      <div class="row">
-        <div class="col-md-12">
-          <img class="img-responsive" src="Images/offair.jpg">
-          <iframe src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe><!--<small><a href="http://mixlr.com/oacoc" style="color:#1a1a1a;text-align:left; font-family:Helvetica, sans-serif; font-size:11px;">OACOC is on Mixlr</a></small>
-        </div>
-      </div>
-    </div>-->
     <div class="container">
-      <h1>Recent Sermons</h1>
+      <h1>Recent Sermon Series</h1>
+    </div>
+    <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Bold.jpg" alt="Sermon Title Graphic">
+          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-TwoGather.jpg" alt="Two Gather Graphic">
+        </div>
+        <div class="col-md-6">
+          <div class="sermons">
+            <div class="date">
+              <span class="month">Apr</span>
+              <span class="day">02</span>
+            </div>
+            <div class="sermonarchives">
+              <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310830588&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              <h4>"Heart & Soul"</h4>
+            </div>
+          </div>
+          <div class="sermons">
+            <div class="date">
+              <span class="month">Apr</span>
+              <span class="day">09</span>
+            </div>
+            <div class="sermonarchives">
+              <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              <h4>"Where Everybody Knows Your Name"</h4>
+            </div>
+          </div>
+          <!--<div class="sermons">
+            <div class="date">
+              <span class="month">Mar</span>
+              <span class="day">19</span>
+            </div>
+            <div class="sermonarchives">
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <h4>Bold Speaking</h4>
+            </div>
+          </div>
+          <div class="sermons">
+            <div class="date">
+              <span class="month">Mar</span>
+              <span class="day">26</span>
+            </div>
+            <div class="sermonarchives">
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <h4>Bold Obedience</h4>
+            </div>
+          </div>-->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <hr style="border-top: 1px solid #c7c1c1;">
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <img class="img-responsive titlegraphic" src="Images/boldTEST.jpg" alt="Sermon Title Graphic">
         </div>
         <div class="col-md-6">
           <div class="sermons">

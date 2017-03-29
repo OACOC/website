@@ -219,7 +219,7 @@
         <h4 class="modal-title" id="contactModalLabel">Welcome to Orange Avenue</h4>
       </div>
       <div class="modal-body">
-            <form id="contact_form" class="form-horizontal" action="verify.php" name="feedback" method="post">
+            <form id="contact_form" class="form-horizontal" action="242groups.php" name="feedback" method="post">
               <div class="form-group">
                 <label for="fullName" class="control-label col-md-2">Full Name:</label>
                 <div class="col-md-10">

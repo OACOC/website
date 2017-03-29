@@ -115,11 +115,12 @@
       <div class="container">
         <div class="row info-mods">
           <div class="col-md-6">
-            <h2 style="text-align:left">Upcoming Sermon Series:</h2>
-            <!--<h2>Two Gather</h2>-->
+            <h2 style="text-align:left">Sermon Series:</h2>
+            <h2>"Two Gather"</h2>
           </div>
           <div class="col-md-6">
-            <h2 style="text-align:center">Sermon Series: BOLD</h2>
+            <h2 style="text-align:center">Series Archive</h2>
+            <h2 style="text-align:center">Listen, Share, Download</h2>
           </div>
         </div>
         <div class="row">
@@ -159,32 +160,32 @@
           <div class="col-md-6">
             <div class="sermons">
               <div class="date">
-                <span class="month">Mar</span>
-                <span class="day">05</span>
+                <span class="month">Apr</span>
+                <span class="day">02</span>
               </div>
               <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310830588&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                <!--<h4>Amazing Boldness</h4>-->
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310830588&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+                <h4>"Heart & Soul"</h4>
               </div>
             </div>
             <div class="sermons">
               <div class="date">
-                <span class="month">Mar</span>
-                <span class="day">12</span>
+                <span class="month">Apr</span>
+                <span class="day">09</span>
               </div>
               <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                <!--<h4>Bold Prayers</h4>-->
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+                <h4>"Where Everybody Knows Your Name"</h4>
               </div>
             </div>
-            <div class="sermons">
+            <!--<div class="sermons">
               <div class="date">
                 <span class="month">Mar</span>
                 <span class="day">19</span>
               </div>
               <div class="sermonarchives">
                 <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                <!--<h4>Bold Speaking</h4>-->
+                <h4>Bold Speaking</h4>
               </div>
             </div>
             <div class="sermons">
@@ -194,9 +195,9 @@
               </div>
               <div class="sermonarchives">
                 <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                <!--<h4>Bold Obedience</h4>-->
+                <h4>Bold Obedience</h4>
               </div>
-            </div>
+            </div>-->
         </div>
       </div>
     </div>
