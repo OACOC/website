@@ -35,9 +35,77 @@
 
       <section>
         <div class="container">
+          <h1 class="cen-horz" style="font-size:5em;color:#6C1D20">GROUP RESOURCES</h1>
+        </div>
+
+        <div class="container">
+          <hr style="border-top: 2px solid #c7c1c1;">
+        </div>
+
+        <div class="container">
           <div class="row">
             <div class="col-md-12">
-              <h1>BOLD</h1>
+              <h1 style="color:#6C1D20">Two Gather</h1>
+            </div>
+            <div class="col-md-12">
+              <h3>SERIES OVERVIEW</h3>
+            </div>
+            <div class="col-md-12">
+              <p>Jesus said in Matthew 18:20: “For where two or three gather; I am there among them.” This is a pretty major promise, wherever two or three people come together in the name of Jesus, Jesus says he’s there. Scripture speaks over and over about the power and the special presence of God that is with us when we gather in groups with other believers. There's something about Christians being together, doing life together.</p>
+            </div>
+            <hr>
+            <div class="col-md-6">
+              <h3>Topics</h3>
+              <div class="sermons wrapper-242">
+                <p>Week 1 - Heart & Soul</p>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310830588&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              </div>
+              <div class="sermons wrapper-242">
+                <p>Week 2 - Where Everybody Knows Your Name</p>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              </div>
+              <!--<div class="sermons wrapper-242">
+                <p>Week 3 - Bold Speaking</p>
+                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              </div>
+              <div class="sermons wrapper-242">
+                <p>Week 4 - Bold Obedience</p>
+                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              </div>-->
+            </div>
+            <div class="col-md-6">
+              <h3>Discussion Guides</h3>
+              <div class="sermons wrapper-242">
+                <p>April 02 - <a style="color:#43DDF8" href="/docs/lesson_guide_040217.pdf" target="_blank">Heart & Soul Discussion Guide</a></p>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307367825&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              </div>
+              <div class="sermons wrapper-242">
+                <p>April 09 - <!--<a style="color:#43DDF8" href="/docs/lesson_guide_040917.pdf" target="_blank">Where Everybody Knows Your Name Discussion Guide</a>-->"Where Everybody Knows Your Name" Discussion Guide</p>
+              </div>
+              <!--<div class="sermons wrapper-242">
+                <p>MARCH 19 - <a style="color:#43DDF8" href="/docs/lesson_guide_031917.pdf" target="_blank">Bold Speaking Discussion Guide</a></p>
+              </div>
+              <div class="sermons wrapper-242">
+                <p>MARCH 26 - 4th Sunday, No 242 Groups</p>
+              </div>-->
+            </div>
+            <div class="row">
+              <h2 class="cen-horz livebtn">
+                <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242groups.php" role="button">Find a Group</a>
+                <!--<a style="display:inline" class="btn btn-default btn-lg btn-block" href="smallgroups.php" role="button">Start a Group</a>-->
+              </h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <hr style="border-top: 2px solid #c7c1c1;">
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1 style="color:#6C1D20">BOLD</h1>
             </div>
             <div class="col-md-12">
               <h3>SERIES OVERVIEW</h3>
@@ -45,7 +113,7 @@
             <div class="col-md-12">
               <p>We live in a time when boldness, sometimes even the outlandish type is a plus. God wants His children to live humbly but boldly! We are going to look at some different stories from the Book of Acts Luke shares with us the earliest days of Christianity we learn that the early believers where BOLD. In fact one of the dominant themes from the Book of Acts is boldness.</p>
             </div>
-            <hr>
+
             <div class="col-md-6">
               <h3>Topics</h3>
               <div class="sermons wrapper-242">
@@ -89,6 +157,19 @@
             </div>
           </div>
         </div>
+
+        <div class="container">
+          <hr style="border-top: 2px solid #c7c1c1;">
+        </div>
+
+        <div class="container">
+          <h2>Leading or joining a group has never been easier!</h2>
+          <p>If you're interested in becoming a group leader we've endeavored to make the experience as easy and rewarding as possible. Contact Phil to learn more.</p>
+          <p>If you would like to join a group, or have questions, simply contact the group leader by clicking the "Find a Group" button below.</p>
+          <h4 style="color:rgb(0, 156, 206)">LISTENING TO THE LESSONS</h4>
+          <p>Phil will preach a new lesson each week, so your group can attend our Sunday AM service or listen live online to hear the basis of the week's focus. The Discussion Guides will be posted here in advance (Thursday) each week and are available for viewing or download to facilitate group discussions. The lesson will also be archived immediately after service for later review.</p>
+        </div>
+
       </section>
 
       <?php include('footer.php'); ?>
