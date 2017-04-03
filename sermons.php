@@ -31,8 +31,29 @@
 
     <?php include('header.php'); ?>
 
+
+      <div class="container">
+      <div class="row jumbotron">
+        <h1 class="cen-horz">Welcome To OA Live</h1>
+        <h1 class="cen-horz"><small>Sunday April 9, 2017</small></h1>
+
+          <div class="col-md-4">
+            <img class="img-responsive" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
+          </div>
+          <div class="col-md-8">
+            <iframe style="border: 1px solid #000;border-radius:6px" src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
+          </div>
+
+        <div class="col-md-12">
+          <h2 class="cen-horz">Two Gather - "Where Everybody Knows Your Name"</h2>
+        </div>
+      </div>
+    </div>
+
+
+
     <div class="container">
-      <h1>Recent Sermon Series</h1>
+      <h1>Current Sermon Series</h1>
     </div>
     <div class="container">
       <div class="row">
@@ -89,6 +110,10 @@
     </div>
 
     <div class="container">
+      <h1>Recent Sermon Series</h1>
+    </div>
+
+    <div class="container">
       <div class="row">
         <div class="col-md-6">
           <img class="img-responsive titlegraphic" src="Images/boldTEST.jpg" alt="Sermon Title Graphic">
@@ -137,5 +162,13 @@
       </div>
     </div>
   </section>
+  <?php include('footer.php'); ?>
+
+  <script src="https://use.fontawesome.com/d74f0711c6.js"></script>
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="js/index.js"></script>
+
 </body>
 </html>

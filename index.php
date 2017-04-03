@@ -83,10 +83,22 @@
               </div>
             </div>
           </div>
+        </div>
 
-          <div class="liveaudio">
+        <div class="liveaudio">
+          <div class="row jumbotron">
+            <h1 class="cen-horz">Welcome To OA Live</h1>
+            <h1 class="cen-horz"><small>Sunday April 9, 2017</small></h1>
+            <div class="col-md-12 img_container">
+              <div class="col-md-4">
+                <img class="img-responsive" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
+              </div>
+              <div class="col-md-8">
+                <iframe style="border: 1px solid #000;border-radius:6px" src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
+              </div>
+            </div>
             <div class="col-md-12">
-              <iframe src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
+              <h2 class="cen-horz">Two Gather - "Where Everybody Knows Your Name"</h2>
             </div>
           </div>
         </div>
@@ -117,87 +129,89 @@
           <div class="col-md-6">
             <h2 style="text-align:left">Sermon Series:</h2>
             <h2>"Two Gather"</h2>
+            <div class="row">
+              <div class="col-md-6">
+                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
+                <div id="clockdiv" style="text-align:center">
+                  <div>
+                    <span class="days"></span>
+                    <div class="smalltext">Days</div>
+                  </div>
+                  <div>
+                    <span class="hours"></span>
+                    <div class="smalltext">Hours</div>
+                  </div>
+                  <div>
+                    <span class="minutes"></span>
+                    <div class="smalltext">Minutes</div>
+                  </div>
+                  <!--<div>
+                    <span class="seconds"></span>
+                    <div class="smalltext">Seconds</div>
+                  </div>-->
+                </div>
+                <div class="cen-horz livebtn">
+                  <a class="btn btn-default btn-lg btn-block" href="sermons.php" role="button">Listen Live</a>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>Sunday, April 2, 2017</h4>
+                <h3>Two Gather</h3>
+                <P>Please join us as we begin a new series, "Two Gather". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
+                <div class="viewarchives">
+                  <a href="sermons.php">View Sermon Archives</a>
+                </div>
+              </div>
+            </div>
           </div>
+
           <div class="col-md-6">
             <h2 style="text-align:center">Series Archive</h2>
             <h2 style="text-align:center">Listen, Share, Download</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-3">
-            <!--<h3>January 1 thru January 22</h3>-->
-            <img class="img-responsive titlegraphic" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
-              <div id="clockdiv" style="text-align:center">
-                <div>
-                  <span class="days"></span>
-                  <div class="smalltext">Days</div>
+            <div class="row">
+              <div class="col-md-12">
+                <div class="sermons">
+                  <div class="date">
+                    <span class="month">Apr</span>
+                    <span class="day">02</span>
+                  </div>
+                  <div class="sermonarchives">
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <!--<h4>"Heart & Soul"</h4>-->
+                  </div>
                 </div>
-                <div>
-                  <span class="hours"></span>
-                  <div class="smalltext">Hours</div>
+                <div class="sermons">
+                  <div class="date">
+                    <span class="month">Apr</span>
+                    <span class="day">09</span>
+                  </div>
+                  <div class="sermonarchives">
+                    <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+                    <h4>"Where Everybody Knows Your Name"</h4>
+                  </div>
                 </div>
-                <div>
-                  <span class="minutes"></span>
-                  <div class="smalltext">Minutes</div>
+                <!--<div class="sermons">
+                  <div class="date">
+                    <span class="month">Mar</span>
+                    <span class="day">19</span>
+                  </div>
+                  <div class="sermonarchives">
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <h4>Bold Speaking</h4>
+                  </div>
                 </div>
-                <!--<div>
-                  <span class="seconds"></span>
-                  <div class="smalltext">Seconds</div>
+                <div class="sermons">
+                  <div class="date">
+                    <span class="month">Mar</span>
+                    <span class="day">26</span>
+                  </div>
+                  <div class="sermonarchives">
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <h4>Bold Obedience</h4>
+                  </div>
                 </div>-->
-              </div>
-            <div class="cen-horz livebtn">
-              <a class="btn btn-default btn-lg btn-block" href="sermons.php" role="button">Listen Live</a>
             </div>
           </div>
-          <div class="col-md-3">
-            <h4>Sunday, April 2, 2017</h4>
-            <h3>Two Gather</h3>
-            <P>Please join us as we begin a new series, "Two Gather". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
-              <div class="viewarchives">
-                <a href="sermons.php">View Sermon Archives</a>
-              </div>
-          </div>
-          <div class="col-md-6">
-            <div class="sermons">
-              <div class="date">
-                <span class="month">Apr</span>
-                <span class="day">02</span>
-              </div>
-              <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                <!--<h4>"Heart & Soul"</h4>-->
-              </div>
-            </div>
-            <div class="sermons">
-              <div class="date">
-                <span class="month">Apr</span>
-                <span class="day">09</span>
-              </div>
-              <div class="sermonarchives">
-                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-                <h4>"Where Everybody Knows Your Name"</h4>
-              </div>
-            </div>
-            <!--<div class="sermons">
-              <div class="date">
-                <span class="month">Mar</span>
-                <span class="day">19</span>
-              </div>
-              <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                <h4>Bold Speaking</h4>
-              </div>
-            </div>
-            <div class="sermons">
-              <div class="date">
-                <span class="month">Mar</span>
-                <span class="day">26</span>
-              </div>
-              <div class="sermonarchives">
-                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                <h4>Bold Obedience</h4>
-              </div>
-            </div>-->
         </div>
       </div>
     </div>
