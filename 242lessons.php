@@ -76,11 +76,11 @@
             <div class="col-md-6">
               <h3>Discussion Guides</h3>
               <div class="sermons wrapper-242">
-                <p>April 02 - <a style="color:#43DDF8" href="/docs/lesson_guide_040217.pdf" target="_blank">Heart & Soul Discussion Guide</a></p>
+                <p>April 02 - <a style="color:#43DDF8" href="/docs/lesson_guide_040217.pdf" target="_blank">"Heart & "Soul" Discussion Guide</a></p>
                 <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307367825&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
               </div>
               <div class="sermons wrapper-242">
-                <p>April 09 - <!--<a style="color:#43DDF8" href="/docs/lesson_guide_040917.pdf" target="_blank">Where Everybody Knows Your Name Discussion Guide</a>-->"Where Everybody Knows Your Name" Discussion Guide</p>
+                <p>April 09 - <a style="color:#43DDF8" href="/docs/lesson_guide_040917.pdf" target="_blank">"Where Everybody Knows Your Name" Discussion Guide</a></p>
               </div>
               <!--<div class="sermons wrapper-242">
                 <p>MARCH 19 - <a style="color:#43DDF8" href="/docs/lesson_guide_031917.pdf" target="_blank">Bold Speaking Discussion Guide</a></p>

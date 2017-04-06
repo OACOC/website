@@ -155,9 +155,9 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>Sunday, April 2, 2017</h4>
+                <h4>Sunday, April 9, 2017</h4>
                 <h3>Two Gather</h3>
-                <P>Please join us as we begin a new series, "Two Gather". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
+                <P>This week at Orange Avenue I want you to remember a word that we are going to use over and over; it's an important word. It's the word relationships. Please join us as we continue our series, "Two Gather". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
                 <div class="viewarchives">
                   <a href="sermons.php">View Sermon Archives</a>
                 </div>
