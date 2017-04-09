@@ -127,11 +127,12 @@
       <div class="container">
         <div class="row info-mods">
           <div class="col-md-6">
-            <h2 style="text-align:left">Sermon Series:</h2>
-            <h2>"Two Gather"</h2>
+            <!--<h2 style="text-align:left">Sermon Series:</h2>-->
+            <h2 style="text-align:left">Easter Worship Service</h2>
+            <h2>"Risen"</h2>
             <div class="row">
               <div class="col-md-6">
-                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
+                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Easter.jpg" alt="Sermon Title Graphic">
                 <div id="clockdiv" style="text-align:center">
                   <div>
                     <span class="days"></span>
@@ -155,9 +156,9 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>Sunday, April 9, 2017</h4>
-                <h3>Two Gather</h3>
-                <P>This week at Orange Avenue I want you to remember a word that we are going to use over and over; it's an important word. It's the word relationships. Please join us as we continue our series, "Two Gather". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
+                <h4>Easter Sunday, April 16, 2017</h4>
+                <h3>"Risen"</h3>
+                <P>This week at Orange Avenue we celebrate Easter Sunday. Please join us for Phil's sermon, "Risen". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
                 <div class="viewarchives">
                   <a href="sermons.php">View Sermon Archives</a>
                 </div>
@@ -186,8 +187,8 @@
                     <span class="day">09</span>
                   </div>
                   <div class="sermonarchives">
-                    <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-                    <h4>"Where Everybody Knows Your Name"</h4>
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316852783&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <!--<h4>"Where Everybody Knows Your Name"</h4>-->
                   </div>
                 </div>
                 <!--<div class="sermons">

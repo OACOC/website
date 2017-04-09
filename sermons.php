@@ -35,17 +35,17 @@
       <div class="container">
       <div class="row jumbotron">
         <h1 class="cen-horz">Welcome To OA Live</h1>
-        <h1 class="cen-horz"><small>Sunday April 9, 2017</small></h1>
+        <h1 class="cen-horz"><small>Sunday April 16, 2017</small></h1>
 
           <div class="col-md-4">
-            <img class="img-responsive" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
+            <img class="img-responsive" src="Images/Title-Graphic-Easter.jpg" alt="Sermon Title Graphic">
           </div>
           <div class="col-md-8">
             <iframe style="border: 1px solid #000;border-radius:6px" src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
           </div>
 
         <div class="col-md-12">
-          <h2 class="cen-horz">Two Gather - "Where Everybody Knows Your Name"</h2>
+          <h2 class="cen-horz">"Risen"</h2>
         </div>
       </div>
     </div>
@@ -77,8 +77,8 @@
               <span class="day">09</span>
             </div>
             <div class="sermonarchives">
-              <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-              <h4>"Where Everybody Knows Your Name"</h4>
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316852783&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <!--<h4>"Where Everybody Knows Your Name"</h4>-->
             </div>
           </div>
           <!--<div class="sermons">

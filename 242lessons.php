@@ -62,7 +62,7 @@
               </div>
               <div class="sermons wrapper-242">
                 <p>Week 2 - Where Everybody Knows Your Name</p>
-                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312000624&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316852783&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
               </div>
               <!--<div class="sermons wrapper-242">
                 <p>Week 3 - Bold Speaking</p>
