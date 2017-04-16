@@ -53,35 +53,35 @@
 
 
     <div class="container">
-      <h1>Current Sermon Series</h1>
+      <!--<h1>Current Sermon Series</h1>-->
+      <h1>Current Sermon</h1>
     </div>
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-TwoGather.jpg" alt="Two Gather Graphic">
+          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Easter.jpg" alt="Two Gather Graphic">
         </div>
         <div class="col-md-6">
           <div class="sermons">
             <div class="date">
               <span class="month">Apr</span>
-              <span class="day">02</span>
+              <span class="day">16</span>
             </div>
             <div class="sermonarchives">
-              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-              <!--<h4>"Heart & Soul"</h4>-->
-            </div>
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317942607&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <!--<h4>Easter Sunday - "Risen"</h4>-->
           </div>
-          <div class="sermons">
+          <!--<div class="sermons">
             <div class="date">
               <span class="month">Apr</span>
               <span class="day">09</span>
             </div>
             <div class="sermonarchives">
               <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316852783&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-              <!--<h4>"Where Everybody Knows Your Name"</h4>-->
+              <h4>"Where Everybody Knows Your Name"</h4>
             </div>
           </div>
-          <!--<div class="sermons">
+          <div class="sermons">
             <div class="date">
               <span class="month">Mar</span>
               <span class="day">19</span>
@@ -114,6 +114,33 @@
     </div>
 
     <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-TwoGather.jpg" alt="Two Gather Graphic">
+        </div>
+        <div class="col-md-6">
+          <div class="sermons">
+            <div class="date">
+              <span class="month">Apr</span>
+              <span class="day">02</span>
+            </div>
+            <div class="sermonarchives">
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <!--<h4>"Heart & Soul"</h4>-->
+            </div>
+          </div>
+          <div class="sermons">
+            <div class="date">
+              <span class="month">Apr</span>
+              <span class="day">09</span>
+            </div>
+            <div class="sermonarchives">
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316852783&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <!--<h4>"Where Everybody Knows Your Name"</h4>-->
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="row">
         <div class="col-md-6">
           <img class="img-responsive titlegraphic" src="Images/boldTEST.jpg" alt="Sermon Title Graphic">

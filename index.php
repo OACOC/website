@@ -88,17 +88,17 @@
         <div class="liveaudio">
           <div class="row jumbotron">
             <h1 class="cen-horz">Welcome To OA Live</h1>
-            <h1 class="cen-horz"><small>Sunday April 9, 2017</small></h1>
+            <h1 class="cen-horz"><small>Sunday April 16, 2017</small></h1>
             <div class="col-md-12 img_container">
               <div class="col-md-4">
-                <img class="img-responsive" src="Images/Title-Graphic-TwoGather.jpg" alt="Sermon Title Graphic">
+                <img class="img-responsive" src="Images/Title-Graphic-Easter.jpg" alt="Sermon Title Graphic">
               </div>
               <div class="col-md-8">
                 <iframe style="border: 1px solid #000;border-radius:6px" src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
               </div>
             </div>
             <div class="col-md-12">
-              <h2 class="cen-horz">Two Gather - "Where Everybody Knows Your Name"</h2>
+              <h2 class="cen-horz">Easter Sunday - "Risen"</h2>
             </div>
           </div>
         </div>
@@ -174,11 +174,11 @@
                 <div class="sermons">
                   <div class="date">
                     <span class="month">Apr</span>
-                    <span class="day">02</span>
+                    <span class="day">16</span>
                   </div>
                   <div class="sermonarchives">
-                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                    <!--<h4>"Heart & Soul"</h4>-->
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317942607&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <!--<h4>Bold Speaking</h4>-->
                   </div>
                 </div>
                 <div class="sermons">
@@ -191,26 +191,28 @@
                     <!--<h4>"Where Everybody Knows Your Name"</h4>-->
                   </div>
                 </div>
-                <!--<div class="sermons">
+                <div class="sermons">
                   <div class="date">
-                    <span class="month">Mar</span>
-                    <span class="day">19</span>
+                    <span class="month">Apr</span>
+                    <span class="day">02</span>
                   </div>
                   <div class="sermonarchives">
-                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313244051&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                    <h4>Bold Speaking</h4>
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <!--<h4>"Heart & Soul"</h4>-->
                   </div>
                 </div>
-                <div class="sermons">
+
+
+                <!--<div class="sermons">
                   <div class="date">
                     <span class="month">Mar</span>
                     <span class="day">26</span>
                   </div>
                   <div class="sermonarchives">
                     <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                    <h4>Bold Obedience</h4>
+                    <h4>Bold Obedience</h4>-->
                   </div>
-                </div>-->
+                </div>
             </div>
           </div>
         </div>
