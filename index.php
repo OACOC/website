@@ -88,17 +88,17 @@
         <div class="liveaudio">
           <div class="row jumbotron">
             <h1 class="cen-horz">Welcome To OA Live</h1>
-            <h1 class="cen-horz"><small>Sunday April 16, 2017</small></h1>
+            <h1 class="cen-horz"><small>Sunday April 23, 2017</small></h1>
             <div class="col-md-12 img_container">
               <div class="col-md-4">
-                <img class="img-responsive" src="Images/Title-Graphic-Easter.jpg" alt="Sermon Title Graphic">
+                <img class="img-responsive" src="Images/Title-Graphic-OrangeOnly.jpg" alt="Sermon Title Graphic">
               </div>
               <div class="col-md-8">
                 <iframe style="border: 1px solid #000;border-radius:6px" src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
               </div>
             </div>
             <div class="col-md-12">
-              <h2 class="cen-horz">Easter Sunday - "Risen"</h2>
+              <h2 class="cen-horz">Upcoming Sermon - "TBA"</h2>
             </div>
           </div>
         </div>
@@ -128,11 +128,11 @@
         <div class="row info-mods">
           <div class="col-md-6">
             <!--<h2 style="text-align:left">Sermon Series:</h2>-->
-            <h2 style="text-align:left">Easter Worship Service</h2>
-            <h2>"Risen"</h2>
+            <h2 style="text-align:left">Upcoming Worship Service</h2>
+            <h2>"TBA"</h2>
             <div class="row">
               <div class="col-md-6">
-                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Easter.jpg" alt="Sermon Title Graphic">
+                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-OrangeOnly.jpg" alt="Sermon Title Graphic">
                 <div id="clockdiv" style="text-align:center">
                   <div>
                     <span class="days"></span>
@@ -156,9 +156,9 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>Easter Sunday, April 16, 2017</h4>
-                <h3>"Risen"</h3>
-                <P>This week at Orange Avenue we celebrate Easter Sunday. Please join us for Phil's sermon, "Risen". Bible classes begin at 9AM and worhip services follow at 10AM.</p>
+                <h4>Sunday, April 23, 2017</h4>
+                <h3>"TBA"</h3>
+                <P>Please join us this week at Orange Avenue, Bible classes begin at 9AM and worhip services follow at 10AM.</p>
                 <div class="viewarchives">
                   <a href="sermons.php">View Sermon Archives</a>
                 </div>

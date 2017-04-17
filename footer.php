@@ -16,20 +16,20 @@
         </div>
         <div class="sermons">
           <a id="hover-facebook" href="http://www.facebook.com/OACOCFL" target="_blank">
-            <i class="fa fa-facebook" aria-hidden="true"></i>
+            <i class="fa fa-facebook fa-footer" aria-hidden="true"></i>
           </a>
           <a id="hover-twitter" href="http://www.twitter.com/OACOC" target="_blank">
-            <i class="fa fa-twitter" aria-hidden="true"></i>
+            <i class="fa fa-twitter fa-footer" aria-hidden="true"></i>
           </a>
           <a id="hover-google" href="https://plus.google.com/+OrangeAvenueChurchofChristEustis?hl=en" target="_blank">
-            <i class="fa fa-google" aria-hidden="true"></i>
+            <i class="fa fa-google fa-footer" aria-hidden="true"></i>
           </a>
           <a id="hover-instagram" href="http://www.instagram.com/oacoc" target="_blank">
-            <i id="instagramGray" class="fa fa-instagram" aria-hidden="true"></i>
+            <i id="instagramGray" class="fa fa-instagram fa-footer" aria-hidden="true"></i>
             <img id="instagramGradient" src="css/instagram32.png" alt="Instagram">
           </a>
           <a id="hover-snapchat" href="http://www.snapchat.com/add/oacoc" target="_blank">
-            <i class="fa fa-snapchat-ghost" aria-hidden="true"></i>
+            <i class="fa fa-snapchat-ghost fa-footer" aria-hidden="true"></i>
           </a>
         </div>
         <h4 class="sermons">GET CONNECTED</h4>
