@@ -88,7 +88,7 @@
         <div class="liveaudio">
           <div class="row jumbotron">
             <h1 class="cen-horz">Welcome To OA Live</h1>
-            <h1 class="cen-horz"><small>Sunday April 23, 2017</small></h1>
+            <h1 class="cen-horz"><small>Sunday April 30, 2017</small></h1>
             <div class="col-md-12 img_container">
               <div class="col-md-4">
                 <img class="img-responsive" src="Images/Title-Graphic-OrangeOnly.jpg" alt="Sermon Title Graphic">
@@ -156,7 +156,7 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>Sunday, April 23, 2017</h4>
+                <h4>Sunday, April 30, 2017</h4>
                 <h3>"TBA"</h3>
                 <P>Please join us this week at Orange Avenue, Bible classes begin at 9AM and worhip services follow at 10AM.</p>
                 <div class="viewarchives">
@@ -225,7 +225,7 @@
           <div class="center-vert-horz">
             <h1 class="cen-horz">OA CENTRAL</h1>
             <img class="img-responsive" src="logos/OA_Atom.png">
-            <h1 class="cen-horz">COMING MAY 1ST</h1>
+            <h1 class="cen-horz">COMING SOON</h1>
           </div>
         </div>
       </div>

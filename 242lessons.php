@@ -38,6 +38,58 @@
           <h1 class="cen-horz" style="font-size:5em;color:#6C1D20">GROUP RESOURCES</h1>
         </div>
 
+        <!-- 4TH Sunday -->
+        <!--<div class="container">
+          <hr style="border-top: 2px solid #c7c1c1;">
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1 style="color:#6C1D20">4TH Sunday Celebration - May 28th</h1>
+            </div>
+            <div class="col-md-12">
+              <h3>What Happens On 4th Sunday?</h3>
+            </div>
+            <div class="col-md-12">
+              <p>On the 4th Sunday of each month we take time to celebrate and worhip God by spending time with our families and loved ones. There are no 242 Group meetings on 4th Sunday so that families and individuals may have time to focus more intimately on their relationship with God.</p>
+              <h2 class="cen-horz">There will be no 242 Group Meetings this week. May 28, 2017.</h2>
+            </div>
+            <hr>
+            <div class="row">
+              <h2 class="cen-horz livebtn">
+                <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242groups.php" role="button">Find a Group</a>
+              </h2>
+            </div>
+          </div>
+        </div>-->
+
+        <div class="container">
+          <hr style="border-top: 2px solid #c7c1c1;">
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1 style="color:#6C1D20">5TH Sunday Fellowship Meal - April 30th</h1>
+            </div>
+            <div class="col-md-12">
+              <h3>What Happens On 5th Sunday?</h3>
+            </div>
+            <div class="col-md-12">
+              <p>On months that contain a "5th Sunday", we will forego our 242 Group meetings and instead join together in a felloeship meal at the church following the morning worship service. <strong>ALL</strong>, visitors and members, are welcome and encouraged to join together for the meal. After the fellowship meal we meet again in the auditorium at 12:45 for a devotional.</p>
+              <h2 class="cen-horz">There will be no 242 Group Meetings this week. April 30, 2017.</h2>
+            </div>
+            <hr>
+            <div class="row">
+              <h2 class="cen-horz livebtn">
+                <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242groups.php" role="button">Find a Group</a>
+                <!--<a style="display:inline" class="btn btn-default btn-lg btn-block" href="smallgroups.php" role="button">Start a Group</a>-->
+              </h2>
+            </div>
+          </div>
+        </div>
+
         <div class="container">
           <hr style="border-top: 2px solid #c7c1c1;">
         </div>
