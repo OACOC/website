@@ -129,10 +129,10 @@
           <div class="col-md-6">
             <!--<h2 style="text-align:left">Sermon Series:</h2>-->
             <h2 style="text-align:left">Upcoming Worship Service</h2>
-            <h2>"TBA"</h2>
+            <h2>"Trust"</h2>
             <div class="row">
               <div class="col-md-6">
-                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-OrangeOnly.jpg" alt="Sermon Title Graphic">
+                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Trust.jpg" alt="Sermon Title Graphic">
                 <div id="clockdiv" style="text-align:center">
                   <div>
                     <span class="days"></span>
@@ -156,9 +156,9 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>Sunday, April 30, 2017</h4>
-                <h3>"TBA"</h3>
-                <P>Please join us this week at Orange Avenue, Bible classes begin at 9AM and worhip services follow at 10AM.</p>
+                <h4>Sunday, May 07, 2017</h4>
+                <h3>"Trust"</h3>
+                <P>This Sunday at Orange Ave. we will consider the choice that we all get to make in life, do we set our own course or do we depend on the Father to make our path. Sunday School starts at 9 am and Worship Assembly is at 10 am.</p>
                 <div class="viewarchives">
                   <a href="sermons.php">View Sermon Archives</a>
                 </div>

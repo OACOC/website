@@ -64,6 +64,7 @@
           </div>
         </div>-->
 
+        <!-- 5th Sunday
         <div class="container">
           <hr style="border-top: 2px solid #c7c1c1;">
         </div>
@@ -81,6 +82,45 @@
               <h2 class="cen-horz">There will be no 242 Group Meetings this week. April 30, 2017.</h2>
             </div>
             <hr>
+            <div class="row">
+              <h2 class="cen-horz livebtn">
+                <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242groups.php" role="button">Find a Group</a>
+              </h2>
+            </div>
+          </div>
+        </div>-->
+
+        <div class="container">
+          <hr style="border-top: 2px solid #c7c1c1;">
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1 style="color:#6C1D20">Trust</h1>
+            </div>
+            <div class="col-md-12">
+              <h3>OVERVIEW</h3>
+            </div>
+            <div class="col-md-12">
+              <p>Jeremiah’s life was not one accident after another. He wasn’t a lifetime of coincidences. He wasn’t a prophet because he thought it would be fun. He was a prophet because that was God’s plan for his life. Get ready for something kind of comforting and troubling: God has a plan for your life, too. Our lives are not accidents waiting to happen, God has a plan for you.</p>
+            </div>
+            <hr>
+            <div class="col-md-6">
+              <h3>Topics</h3>
+              <div class="sermons wrapper-242">
+                <p>Week 1 - Trust</p>
+                <p>"Trust" - Listen to lesson (Available after service May 7)</p>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              </div>
+            </div>
+            <div class="col-md-6">
+              <h3>Discussion Guides</h3>
+              <div class="sermons wrapper-242">
+                <p>May 07 - <a style="color:#43DDF8" href="/docs/lesson_guide_050717.pdf" target="_blank">"Trust" Discussion Guide</a></p>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307367825&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              </div>
+            </div>
             <div class="row">
               <h2 class="cen-horz livebtn">
                 <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242groups.php" role="button">Find a Group</a>
