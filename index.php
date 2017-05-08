@@ -88,17 +88,18 @@
         <div class="liveaudio">
           <div class="row jumbotron">
             <h1 class="cen-horz">Welcome To OA Live</h1>
-            <h1 class="cen-horz"><small>Sunday April 30, 2017</small></h1>
+            <h1 class="cen-horz"><small>Sunday May 07, 2017</small></h1>
             <div class="col-md-12 img_container">
               <div class="col-md-4">
-                <img class="img-responsive" src="Images/Title-Graphic-OrangeOnly.jpg" alt="Sermon Title Graphic">
+                <img class="img-responsive" src="Images/Title-Graphic-Trust.jpg" alt="Sermon Title Graphic">
               </div>
               <div class="col-md-8">
                 <iframe style="border: 1px solid #000;border-radius:6px" src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
               </div>
             </div>
             <div class="col-md-12">
-              <h2 class="cen-horz">Upcoming Sermon - "TBA"</h2>
+              <h2 class="cen-horz">Upcoming Sermon - "Trust"</h2>
+              <h4 class="cen-horz">Sermon will begin at approximately 10:35</h4>
             </div>
           </div>
         </div>
@@ -173,6 +174,18 @@
               <div class="col-md-12">
                 <div class="sermons">
                   <div class="date">
+                    <span class="month">May</span>
+                    <span class="day">07</span>
+                  </div>
+                  <div class="sermonarchives">
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321414110&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <!--<h4>"Trust"</h4>-->
+                  </div>
+                </div>
+
+
+                <div class="sermons">
+                  <div class="date">
                     <span class="month">Apr</span>
                     <span class="day">16</span>
                   </div>
@@ -202,7 +215,6 @@
                   </div>
                 </div>
 
-
                 <!--<div class="sermons">
                   <div class="date">
                     <span class="month">Mar</span>
@@ -210,7 +222,10 @@
                   </div>
                   <div class="sermonarchives">
                     <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314548262&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                    <h4>Bold Obedience</h4>-->
+                    <h4>Bold Obedience</h4>
+                  </div>
+                </div>-->
+
                   </div>
                 </div>
             </div>

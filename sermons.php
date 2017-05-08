@@ -59,7 +59,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Trust.jpg" alt="Two Gather Graphic">
+          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Trust.jpg" alt="Trust Graphic">
         </div>
         <div class="col-md-6">
           <div class="sermons">
@@ -68,8 +68,8 @@
               <span class="day">07</span>
             </div>
             <div class="sermonarchives">
-              <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/317942607&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
-              <h4>"Trust"</h4>
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321414110&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <!--<h4>"Trust"</h4>-->
             </div>
           <!--<div class="sermons">
             <div class="date">
