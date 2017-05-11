@@ -130,10 +130,10 @@
           <div class="col-md-6">
             <!--<h2 style="text-align:left">Sermon Series:</h2>-->
             <h2 style="text-align:left">Upcoming Worship Service</h2>
-            <h2>"Trust"</h2>
+            <h2>"A Mother's Faith"</h2>
             <div class="row">
               <div class="col-md-6">
-                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Trust.jpg" alt="Sermon Title Graphic">
+                <img class="img-responsive titlegraphic" src="Images/Title-Graphic-MothersFaith.jpg" alt="Sermon Title Graphic">
                 <div id="clockdiv" style="text-align:center">
                   <div>
                     <span class="days"></span>
@@ -157,9 +157,9 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>Sunday, May 07, 2017</h4>
-                <h3>"Trust"</h3>
-                <P>This Sunday at Orange Ave. we will consider the choice that we all get to make in life, do we set our own course or do we depend on the Father to make our path. Sunday School starts at 9 am and Worship Assembly is at 10 am.</p>
+                <h4>Sunday, May 14, 2017</h4>
+                <h3>"A Mother's Faith"</h3>
+                <P>This Sunday’s message at Orange Ave. is not about how to be good to your mother; the message is about a mother who had to make hard choices for the welfare of her son. Being a mom or a dad isn't for the faint of heart. It requires tough decisions—decisions that are risky and heart-wrenching, decisions that require faith.</p>
                 <div class="viewarchives">
                   <a href="sermons.php">View Sermon Archives</a>
                 </div>

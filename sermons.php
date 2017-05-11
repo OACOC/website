@@ -34,17 +34,17 @@
     <div class="container">
       <div class="row jumbotron">
         <h1 class="cen-horz">Welcome To OA Live</h1>
-        <h1 class="cen-horz"><small>Sunday May 07, 2017</small></h1>
+        <h1 class="cen-horz"><small>Sunday May 14, 2017</small></h1>
 
           <div class="col-md-4">
-            <img class="img-responsive" src="Images/Title-Graphic-Trust.jpg" alt="Sermon Title Graphic">
+            <img class="img-responsive" src="Images/Title-Graphic-MothersFaith.jpg" alt="Sermon Title Graphic">
           </div>
           <div class="col-md-8">
             <iframe style="border: 1px solid #000;border-radius:6px" src="https://mixlr.com/users/2348606/embed?artwork=false" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
           </div>
 
         <div class="col-md-12">
-          <h2 class="cen-horz">"Trust"</h2>
+          <h2 class="cen-horz">"A Mother's Faith"</h2>
         </div>
       </div>
     </div>
@@ -59,17 +59,17 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Trust.jpg" alt="Trust Graphic">
+          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-MothersFaith.jpg" alt="Trust Graphic">
         </div>
         <div class="col-md-6">
           <div class="sermons">
             <div class="date">
               <span class="month">May</span>
-              <span class="day">07</span>
+              <span class="day">14</span>
             </div>
             <div class="sermonarchives">
-              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321414110&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-              <!--<h4>"Trust"</h4>-->
+              <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321414110&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              <h4>"A Mother's Faith"</h4>
             </div>
           <!--<div class="sermons">
             <div class="date">
@@ -115,6 +115,24 @@
     </div>
 
     <div class="container">
+
+      <div class="row">
+        <div class="col-md-6">
+          <img class="img-responsive titlegraphic" src="Images/Title-Graphic-Trust.jpg" alt="Trust Graphic">
+        </div>
+        <div class="col-md-6">
+          <div class="sermons">
+            <div class="date">
+              <span class="month">May</span>
+              <span class="day">07</span>
+            </div>
+            <div class="sermonarchives">
+              <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321414110&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+              <!--<h4>"Trust"</h4>-->
+            </div>
+          </div>
+        </div>
+      </div>
 
       <div class="row">
         <div class="col-md-6">

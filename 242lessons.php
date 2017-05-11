@@ -97,6 +97,46 @@
         <div class="container">
           <div class="row">
             <div class="col-md-12">
+              <h1 style="color:#6C1D20">A Mother's Faith</h1>
+            </div>
+            <div class="col-md-12">
+              <h3>OVERVIEW</h3>
+            </div>
+            <div class="col-md-12">
+              <p>This Sunday’s message at Orange Ave. is not about how to be good to your mother; the message is about a mother who had to make hard choices for the welfare of her son. Being a mom or a dad isn't for the faint of heart. It requires tough decisions—decisions that are risky and heart-wrenching, decisions that require faith.</p>
+            </div>
+            <hr>
+            <div class="col-md-6">
+              <h3>Topics</h3>
+              <div class="sermons wrapper-242">
+                <p>Week 1 - A Mother's Faith</p>
+                <p>LISTEN - Lesson will be posted shortly after service on May 14.</p>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321414110&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              </div>
+            </div>
+            <div class="col-md-6">
+              <h3>Discussion Guides</h3>
+              <div class="sermons wrapper-242">
+                <p>May 14 - <a style="color:#43DDF8" href="/docs/lesson_guide_051417.pdf" target="_blank">"A Mother's Faith" Discussion Guide</a></p>
+                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307367825&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+              </div>
+            </div>
+            <div class="row">
+              <h2 class="cen-horz livebtn">
+                <a style="margin:5px 5px" class="btn btn-default btn-lg" href="242groups.php" role="button">Find a Group</a>
+                <!--<a style="display:inline" class="btn btn-default btn-lg btn-block" href="smallgroups.php" role="button">Start a Group</a>-->
+              </h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <hr style="border-top: 2px solid #c7c1c1;">
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
               <h1 style="color:#6C1D20">Trust</h1>
             </div>
             <div class="col-md-12">
