@@ -175,6 +175,17 @@
                 <div class="sermons">
                   <div class="date">
                     <span class="month">May</span>
+                    <span class="day">14</span>
+                  </div>
+                  <div class="sermonarchives">
+                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322575631&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+                    <!--<h4>"Heart & Soul"</h4>-->
+                  </div>
+                </div>
+
+                <div class="sermons">
+                  <div class="date">
+                    <span class="month">May</span>
                     <span class="day">07</span>
                   </div>
                   <div class="sermonarchives">
@@ -182,7 +193,6 @@
                     <!--<h4>"Trust"</h4>-->
                   </div>
                 </div>
-
 
                 <div class="sermons">
                   <div class="date">
@@ -202,16 +212,6 @@
                   <div class="sermonarchives">
                     <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316852783&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
                     <!--<h4>"Where Everybody Knows Your Name"</h4>-->
-                  </div>
-                </div>
-                <div class="sermons">
-                  <div class="date">
-                    <span class="month">Apr</span>
-                    <span class="day">02</span>
-                  </div>
-                  <div class="sermonarchives">
-                    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315700915&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
-                    <!--<h4>"Heart & Soul"</h4>-->
                   </div>
                 </div>
 

@@ -110,8 +110,8 @@
               <h3>Topics</h3>
               <div class="sermons wrapper-242">
                 <p>Week 1 - A Mother's Faith</p>
-                <p>LISTEN - Lesson will be posted shortly after service on May 14.</p>
-                <!--<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321414110&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>-->
+                <!--<p>LISTEN - Lesson will be posted shortly after service on May 14.</p>-->
+                <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322575631&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
               </div>
             </div>
             <div class="col-md-6">
